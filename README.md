@@ -8,3 +8,9 @@ A website version of the archive might be coming out soon, depending on how impo
 The source & launcher are completely available on GitHub; only the launcher will be included here.
 
 You can do whatever you want with the files and you even can credit harryzawg and this repository if you would like. This is highly appreciated!
+
+__Pages__:
+- [Clients](https://github.com/av7b/bubbarchive/tree/Clients)
+- [Studios](https://github.com/av7b/bubbarchive/tree/Studios)
+- [Common Fixes](https://github.com/av7b/bubbarchive/tree/Common-Fixes)
+- [Launcher](https://github.com/av7b/bubbarchive/tree/Launcher)

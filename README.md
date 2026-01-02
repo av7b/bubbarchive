@@ -1,5 +1,6 @@
 # bubbarchive
 **harry, if you want this gone just DM me back. For your information, nothing private about your past revival is put in here. This is just for new bubbavivals that need this archive. Everything that is put in here, is public.**
+
 This is a fully compiled public archive of the Bubbablox/Bubbaverse revival. If you would like to contribute, please contact me on discord. (@av7b)
 
 A website version of the archive might be coming out soon, depending on how important this is.
